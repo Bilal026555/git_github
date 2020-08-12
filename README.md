@@ -3,8 +3,8 @@
 <html>
 <body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+<h1>Git and Github tutorials</h1>
+<p>This page contains the link of resources available to learn git and github</p>
 
 </body>
 </html> 
